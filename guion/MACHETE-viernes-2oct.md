@@ -44,6 +44,10 @@ Cada mañana a las 9, revisá el inbox del meetup y avisame solo si hay algo mar
 
 Spinner → "miren el backlog" · Red caída → screenshots `demos/backup/` · Pregunta técnica → "la vemos al final".
 
+## Créditos
+
+No hay créditos para este evento. No prometer ni mostrar QR.
+
 ## Nunca en pantalla
 
 Settings · billing · chats con clientes · inbox con mails de terceros.

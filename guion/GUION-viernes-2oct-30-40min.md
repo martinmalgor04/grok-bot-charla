@@ -173,7 +173,7 @@ Cada mañana a las 9, revisá el inbox del meetup y avisame solo si hay algo mar
 
 > La tarea para esta semana: un agente, una semana, conectado a Drive o Calendar. Empiecen chico.
 
-**Créditos / QR:** si Ben mandó la URL `cursor.com/grokbot{ciudad}`, ponerla en pantalla. Si no llegó, se omite: no inventar una URL.
+**Créditos:** este evento no tiene créditos. No mencionar QR ni prometer créditos.
 
 **Puente:** completar cuando esté confirmado el programa del viernes (Q&A, siguiente speaker o cierre).
 

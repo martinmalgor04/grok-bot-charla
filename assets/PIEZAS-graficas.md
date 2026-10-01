@@ -11,10 +11,9 @@ Usar solo estas herramientas y assets. No crear logos, paletas ni taglines propi
 | Muro de fotos | https://github.com/bchewy/grokbot-wall | Opcional |
 | Landing | https://grok-bot-meetup.vercel.app/ | Si hace falta |
 | Stickers, wordmarks, banner, fonts, colores | Pack Ambassadors ya bajado (stickers 01–12, wordmarks, banner 2×6 ft, UniversalSansGrokTest, `GrokBot_Colors_for Production.pdf`) | Fuera del repo |
-| QR de créditos | Ben manda `cursor.com/grokbot{ciudad}` | **Falta:** pedirlo a Ben |
+| QR de créditos | — | No aplica: no hay créditos para este evento |
 
 ## Faltantes
 
-- URL de créditos de Ben para la ciudad del viernes.
 - Thumbnail exportado (requiere acceso al Figma; sin login da error).
 - Sección de slides de Ben en Notion: requiere login Ambassadors (https://app.notion.com/p/cursorambassadors/Grok-Bot-assets-3c5ba798b53c8080a44ae0b7d93f19c2?source=copy_link#3d3ba798b53c801b9603fbb417d8bdde).
