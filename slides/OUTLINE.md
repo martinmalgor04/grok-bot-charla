@@ -2,15 +2,15 @@
 
 Charla del viernes 2 oct 2026 · español (Argentina) · 30–40 min.
 
-Base: `guion/GUION-workshop-grok-bot.md` (meetup Corrientes, 16/09, bloque de 20 min). Este outline estira esa columna. No reemplaza el deck oficial de Ambassadors: ese archivo todavía no está en el repo (`refs/ASSETS-oficiales.md`).
+Presentan: Martín Manuel Malgor y Tobías Insaurralde (Cursor Ambassadors). Guion del viernes: `guion/GUION-viernes-2oct-30-40min.md`; machete: `guion/MACHETE-viernes-2oct.md`. Base original: `guion/GUION-workshop-grok-bot.md` (16/09, 20 min). Se proyecta el deck oficial EN y se narra con este outline. No reemplaza el deck oficial de Ambassadors: ese archivo todavía no está en el repo (`refs/ASSETS-oficiales.md`).
 
 Si hay que comprimir a 30 min: hook 3, modelo 5, demo A 10, demo B 6, reglas 4, cierre 2. Si hay aire hasta 40, usá los tiempos de abajo. Si se atrasan, cortá la Demo B, no el cierre.
 
-Los datos de sala del 16/09 (UNNE, Q&A de Cursor a las 19:05, Tero y Dylo, Tobías en AV) quedan marcados para reescribir. No inventar el programa del viernes.
+Los datos de sala del 16/09 (UNNE, Q&A de Cursor a las 19:05, Tero y Dylo) quedan marcados para reescribir. No inventar el programa del viernes.
 
 ---
 
-## 1. Hook (0:00–4:00)
+## 1. Hook (0:00–4:00) · Martín
 
 ### No es otro chatbot
 
@@ -35,7 +35,7 @@ Mostrar la ventana de Grok Bot con el agente en el sidebar. Nada de settings ni 
 
 ---
 
-## 2. Modelo mental — 3 ideas (4:00–10:00)
+## 2. Modelo mental — 3 ideas (4:00–10:00) · Tobías
 
 ### Solo tres conceptos
 
@@ -63,7 +63,7 @@ Contarlos con los dedos. Sin arquitectura interna, sin nombres de tools y sin je
 
 ---
 
-## 3. Demo A — agente con una fuente de verdad (10:00–20:00)
+## 3. Demo A — agente con una fuente de verdad (10:00–20:00) · Martín
 
 ### Setup
 
@@ -78,7 +78,8 @@ Contarlos con los dedos. Sin arquitectura interna, sin nombres de tools y sin je
    > Resumí en 5 viñetas qué está Hecho y qué es P0 pendiente en el backlog del meetup. Sé brutalmente concreto. Sin links.
 
 3. Mientras responde: está leyendo Drive, no inventando de memoria fría.
-4. Una fila del inbox de agentes y el protocolo (10 s): misma fuente de verdad para organizers con cuentas distintas.
+4. Verificar un ítem de la respuesta contra la planilla (regla: pedir evidencia).
+5. Una fila del inbox de agentes y el protocolo (10 s): misma fuente de verdad para organizers con cuentas distintas.
 
 ### Cierre de la demo
 
@@ -101,7 +102,7 @@ Preparar las tres. El día de la charla se elige una, según energía y wifi.
 
 Pedido en lenguaje natural → markdown usable en la puerta.
 
-> Creá un checklist imprimible de recepción: staff, check-in 58 mm, roles, qué llevar. Corto, markdown.
+> Creá un checklist imprimible de recepción para un meetup: staff 30 min antes, check-in con ticket de 58 mm, roles, qué llevar. Corto, en markdown.
 
 En el guión del 16/09 el venue es Parque Tecnológico UNNE. Cambiá fecha y lugar solo cuando estén confirmados para el viernes.
 
@@ -118,7 +119,7 @@ En el guión del 16/09 el venue es Parque Tecnológico UNNE. Cambiá fecha y lug
 
 ---
 
-## 5. Reglas de oro (30:00–36:00)
+## 5. Reglas de oro (30:00–36:00) · Tobías
 
 ### Cinco reglas
 
@@ -135,7 +136,7 @@ En el guión del 16/09 el venue es Parque Tecnológico UNNE. Cambiá fecha y lug
 
 ---
 
-## 6. Cierre (36:00–40:00)
+## 6. Cierre (36:00–40:00) · Martín
 
 ### Qué acaban de ver
 
