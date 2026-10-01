@@ -1,0 +1,50 @@
+# OS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*~
+*.swp
+*.swo
+.directory
+
+# Secretos y datos de demo
+.env
+.env.*
+*.pem
+credentials.json
+secrets.*
+data/
+demos/backup/
+*.csv
+*.sqlite
+*.sqlite3
+*.xlsx
+*.xls
+
+# Binarios grandes (deck oficial, video, zips, exports)
+*.pptx
+*.ppt
+*.key
+*.pdf
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.psd
+*.ai
+*.sketch
+
+# Drop local del seed
+/uploads/

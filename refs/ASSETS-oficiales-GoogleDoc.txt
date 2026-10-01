@@ -1,0 +1,33 @@
+Assets oficiales Grok Bot (meetup Corrientes)
+
+Bloqueo Notion MCP
+El conector Notion de Martín apunta a su workspace personal, no a Cursor Ambassadors. La página oficial no se puede leer por API hasta que se comparta esa página a su Notion o se abra en el browser con su login Ambassadors.
+
+Página canónica:
+https://app.notion.com/p/cursorambassadors/Grok-Bot-assets-3c5ba798b53c8080a44ae0b7d93f19c2
+
+Links de Ben Lang / #08_tooling (Sep 2026)
+- Stickers template + hub assets: misma página Notion arriba (msg 2026-09-04)
+- Slides Grok Bot: Notion anchor #3d3ba798b53c801b9603fbb417d8bdde (msg 2026-09-06)
+- Rollup Figma (añadido en Notion): misma página (msg 2026-09-01)
+- Thumbnails Luma Figma: https://www.figma.com/design/3PcKyybEoc6SAqysnCb5HA/Grok-Bot-thumbnails--temp-?node-id=0-1&t=y60OWJZ5JGQwUwqw-0
+- Credit QR time-based: Ben envía URL custom tipo cursor.com/grokbot{ciudad} (msg 2026-09-10) — pedir para Corrientes si falta
+- Más assets Notion (cards etc): anchor #3c5ba798b53c803d8fc0e1f6c303f0b7
+
+Herramientas community útiles
+- xaievents graphics: https://xaievents.vercel.app/
+- Landing meetup template: https://grok-bot-meetup.vercel.app/
+- Cafe Cursor asset generator (Cursor branded): https://cafe-cursor-two.vercel.app
+- Thumbnail tool: https://cursor-thumbnail-tool.vercel.app/
+- Deck template: https://github.com/agrimsingh/cursor-deck-template
+- Credit claim example (Floripa): https://cursorfloripa.space/ + https://github.com/ArturoRiosMock/cafe-cursor
+
+Impresión local ya lista (este repo)
+- Checklist: /workspace/meetup-printables/checklist/
+- Carteles A4: /workspace/meetup-printables/signs/TODOS-carteles-A4.pdf
+- Check-in SPEC: Drive + /workspace/meetup-checkin/SPEC.md — Martín usa app impresora local branded, NO cursor-pos community
+
+Acción pendiente para Martín
+1. Abrir la página Notion Ambassadors con su cuenta y descargar stickers/slides/rollup, O compartir esa página a "Notion de Martin Manuel Malgor" para que el conector los vea.
+2. Pedir a Ben el credit QR time-based para Corrientes si aún no llegó.
+3. Usar Figma thumbnails + xaievents para redes / pantallas.
